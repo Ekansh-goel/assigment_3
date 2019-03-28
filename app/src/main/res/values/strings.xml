@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">assignment_3</string>
+    <string name="title_activity_splash">splash</string>
+    <string-array name="group">
+        <item>0+ve</item>
+        <item>o-ve</item>
+        <item>A+ve</item>
+        <item>A-ve</item>
+        <item>B+ve</item>
+        <item>B-ve</item>
+        <item>AB+ve</item>
+        <item>AB-ve</item>
+    </string-array>
+    <string-array name="coure">
+        <item>Android</item>
+        <item>PHP</item>
+        <item>DIGITAL MARKETING</item>
+        <item>PYTHON</item>
+        <item>JAVA</item>
+    </string-array>
+</resources>
